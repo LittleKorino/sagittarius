@@ -1,0 +1,1 @@
+/data/local/korino/netbridge/bridge.sh
